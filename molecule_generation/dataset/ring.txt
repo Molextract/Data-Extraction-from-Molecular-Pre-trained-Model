@@ -1,0 +1,10 @@
+*C1=C(*)[C@H](*)N(*)C1=O
+*c1nc2c(s1)CCCC2
+*[C@H]1C[C@H](*)[C@H]2C(=*)N(*)C(=*)[C@@H]12
+*c1cc(*)c2c(*)nn(*)c2n1
+*N1CCS(=O)(=O)CC1
+*c1nccc2ccccc12
+*C1(*)OCCO1
+*N1Cc2ccccc2C1=*
+*c1ccc2c(c1)CCC(=O)N2
+*[C@@H]1C(=O)N(*)C(=O)[C@@H]1*

@@ -1,0 +1,18 @@
+box_parameter: !!python/tuple
+- !!python/tuple
+  - 10.131
+  - 41.879
+  - 32.097
+- !!python/tuple
+  - 20.673
+  - 20.198
+  - 21.362
+exhaustiveness: 1
+num_cpu_dock: 5
+num_modes: 10
+num_sub_proc: 10
+receptor_file: docking_score/ReLeaSE_Vina/docking/fa7/receptor.pdbqt
+temp_dir: tmp
+timeout_dock: 100
+timeout_gen3d: 30
+vina_program: docking_score/bin/qvina02
